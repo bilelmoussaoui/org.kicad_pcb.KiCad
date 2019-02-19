@@ -1,7 +1,7 @@
 {
     "app-id": "org.kicad_pcb.KiCad",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "3.26",
+    "runtime-version": "3.30",
     "sdk": "org.gnome.Sdk",
     "command": "kicad",
     "appdata-license": "GPL-3.0+ and BSD and MIT and wxWidgets",
